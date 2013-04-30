@@ -1,3 +1,5 @@
+## !!! Test the app now !!! - [http://alpha.kassomat.net](http://alpha.kassomat.net)
+
 ## Kassomat API Documentation
 ### Overview
 
